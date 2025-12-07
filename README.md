@@ -7,7 +7,7 @@
 - ✨ Currently working on: **Portfolio, AI-based projects, and Web Competitions**
 ### Achievement 🏆
 - 🥇 National Highschool **Biology Olympiad Finalist** 
-- 🥈 Winner in **SMA KRISTEN 2 GLORIA Biology Competition**
+- 🥈 Winner in **SMA Kristen 2 Gloria Surabaya Biology Competition**
 - 🏆 Participating in **Hackathon Kota - Web Technology 2025**
 - 🔊 Building an **AI Chatbot for TikTok Live**
 - 🌟 Love designing modern UI with **Framer Motion & Tailwind CSS**
