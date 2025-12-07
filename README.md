@@ -1,13 +1,14 @@
-# Hi there! I'm Kira🌟 
+# Hi there! I'm Davin Adrian Tanur Nathaniel 🌟 
 
 ### 👨‍💻 About Me
-- 📚 Majoring in **Computer Science**
+- 📚 Computer science student at **BINUS University - Kemanggisan**
 - 💎 Passionate about **Web Development, UI/UX, and AI**
 - 🔧 Tech Stack: **Laravel, React.js, Vue.js, Tailwind CSS, Bootstrap**
 - ✨ Currently working on: **Portfolio, AI-based projects, and Web Competitions**
-- 🏆 Participating in **Hackathon Nasional - Web Technology 2024**
-- 🏆 Participating in **Hacktivist Provinsi - Web Technology 2024**
-- 🏆 Participating in **Hackathon Kota - Web Technology 2024**
+### Achievement 🏆
+- 🥇 National Highschool **Biology Olympiad Finalist** 
+- 🥈 Winner in **SMA KRISTEN 2 GLORIA Biology Competition**
+- 🏆 Participating in **Hackathon Kota - Web Technology 2025**
 - 🔊 Building an **AI Chatbot for TikTok Live**
 - 🌟 Love designing modern UI with **Framer Motion & Tailwind CSS**
 
@@ -24,12 +25,12 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 👥 Let's Connect!
-- 💌 [Email](mutiacode@gmail.com)
-- 🌍 [Portfolio](https://mutiadev.my.id/)
+- 💌 [Email](davinadrian12gmail.com)
+- 🌍 [Portfolio](https://soon.my.id/)
 
 > “Great things are not done by impulse, but by a series of small things brought together.” - Vincent Van Gogh
 
 ---
 
-🌟 Keep coding, keep learning, and keep creating! 💟
+🌟 Keep codindnd keep creating! 💟
 
